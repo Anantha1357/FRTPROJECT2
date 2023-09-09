@@ -1,4 +1,4 @@
-#  ✨ Importance of Good hygiene 
+#  ✨ Importance of Good hygiene 😃
 
 
 ### This website on the importance of Good hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
@@ -7,10 +7,6 @@
 **Project URL** - 
 
 **Demo Video URL** -
-
-## Azure Technologies used for project
-- Static Web apps
-- Health bot
 
 ## Features and Functionalities 
 
@@ -36,5 +32,16 @@
 
 ### chat bot-
 ![chatbot](https://github.com/Anantha1357/FRTPROJECT2/assets/124561046/357dd1b9-f91a-4e99-bd83-63952cdfabde)
+
+
+## Azure Technologies used for project
+- Static Web apps
+- Health bot
+
+## Languages and app technology used 💻
+- Azure
+- HTML
+- CSS
+- java script
 
 
