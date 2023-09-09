@@ -1,4 +1,4 @@
-![image](https://github.com/Anantha1357/FRTPROJECT2/assets/124561046/e18a5004-1ea0-4ecd-b3bb-dda9fac1d406)#  ✨ Importance of Good hygiene ✨  
+#  ✨ Importance of Good hygiene ✨  
 
 
 ### This website on the importance of Good hygiene has been developed for Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
